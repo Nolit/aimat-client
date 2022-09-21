@@ -18,7 +18,7 @@
     "moment": "^2.24.0",
     "nuxt": "^2.10.0",
     "vue-toasted": "^1.1.27",
-    "vuetify": "^2.1.1"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "nodemon": "^1.19.3",
