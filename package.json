@@ -16,7 +16,7 @@
     "@nuxtjs/vuetify": "^1.9.0",
     "cross-env": "^6.0.3",
     "moment": "^2.24.0",
-    "nuxt": "^2.10.0",
+    "nuxt": "^2.15.8",
     "vue-toasted": "^1.1.27",
     "vuetify": "^2.1.1"
   },
